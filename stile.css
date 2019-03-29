@@ -1,0 +1,145 @@
+html{
+	scroll-behavior: smooth;
+}
+main{
+	height:700px;
+	width:1350px;
+	
+	background-color:black;
+	padding: 0px;
+}
+.dodges{
+	background-image:url("./img/header/challenger.jpg");
+    background-repeat:no-repeat;
+    background-size:100%;
+    height:800px;
+      }
+.lanc{
+	background-image:url("./img/header/lancer.jpg");
+	background-repeat:no-repeat;
+    background-size:100%;
+    height:800px;
+}
+.skyl{
+    background-image:url("./img/header/gtr.jpg");
+    background-repeat:no-repeat;
+    background-size:100%;
+    height:800px;
+}
+.uro{
+	text-align: center;
+}
+.dod{
+   width: 500px;
+   margin:20px 0px 0px 0px;
+}
+.glav {
+	background-image:url("./img/header/images.jpg");
+	background-size:100%;
+	background-repeat:no-repeat;
+	background-position:0px -200px;
+}
+body{
+	margin:0px;
+}
+.gop{
+	color:black;
+}
+p{
+	text-align: left;
+	color: white;
+}
+.midl{
+	width:400px;
+	display:inline-block;
+
+}
+.qop{
+	margin: 0px 0px 0px 30px;
+	font-size: 20px;
+}
+.Lancer{
+	width: 150px;
+}
+.dodge{
+	width:150px;
+	display:inline-block;
+}
+.sky{
+	height: 100px;
+    display:inline-block;
+    text-align: center;\
+
+}
+.image{
+	height: 100px;	
+	display:inline-block;
+}
+.bom{
+	padding: 30px;
+    display: inline-block;
+    background-color: #6969698c; 
+    width: 500px;
+    margin:10px;
+}
+.me{
+    padding: 30px;
+    display: inline-block;
+    background-color: #6969698c; 
+    width: 500px;
+    margin:10px;
+    vertical-align: top;
+}
+h4{
+	margin:0px;
+}
+
+.elmenu {
+	display: inline-block;
+	padding:20px;
+	margin:0px 100px 0px 100px;
+	font-family:New Century Schoolbook;
+	color:white;
+	font-size:20px;
+	text-decoration: none;
+
+}
+.knop{
+	
+}
+.elmenu:hover {
+	background: linear-gradient(180deg, #000000, #696969, #808080, #000000);
+
+}
+h1{
+	color:white;
+	text-align: center;
+	font-size: 50px;
+	font-family: New Century Schoolbook;
+	margin-top: 0px;
+}
+
+header{
+	width:1292px;
+	background-image:url("./img/header/black.jpg");
+	background-size:25%;
+	background-color:black;
+	padding: 30px;
+}
+footer{
+	width: 1350px;
+	height:100px;
+   background-image:url("./img/header/black.jpg");
+}
+.main2{
+	text-align: center;
+	display: inline-block;
+	background-color: #3a3a3a;
+	width: 100%;
+}
+.you{
+	margin: 0px;
+	color:white;
+    text-decoration: none;
+    font-size: 20px;
+}
